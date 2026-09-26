@@ -1,0 +1,17 @@
+Database: Web of Science Core Collection (accessed through the CAPES institutional portal)
+Search date: 6 April 2025
+Editions represented in the retrieved records: SCI-EXPANDED, SSCI, ESCI, CPCI-S, BKCI-S
+No edition-specific limiter was applied in the search interface.
+
+Search string (topic field, TS):
+
+(TS=("palliative medicine") OR TS=("Palliative care") OR TS=("End-of-life care") OR TS=("Supportive care") OR TS=("Terminal care")) AND (TS=("Artificial Intelligence") OR TS=("Machine Learning") OR TS=("Natural Language Processing") OR TS=("Predictive Analytics"))
+
+Filters applied in the interface: publication years 2016-2025; document type "Article"; language English.
+
+Records retrieved: 391
+Removed by the filters above: 109
+Screened on title, author keywords and abstract: 282
+Excluded at screening: 116
+Included: 166 (published 2018-2025)
+Duplicates identified in Mendeley Desktop 1.19.5: 0

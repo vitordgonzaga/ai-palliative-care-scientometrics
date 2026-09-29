@@ -6,6 +6,8 @@ This repository holds the search documentation, the list of included records, th
 analysis outputs and the figures of the article, so that the selection and the
 analyses can be inspected and repeated.
 
+Version history: see CHANGELOG.md.
+
 ## How to cite
 
 > [author names, title, journal, year, DOI - to be completed on acceptance]

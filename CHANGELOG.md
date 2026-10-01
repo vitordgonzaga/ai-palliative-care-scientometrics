@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.0.2 (unreleased)
+
+- `04_figures/Figure5_keyword_network.png`: the co-occurrence network of KeyWords Plus, previously Supplementary Figure S4, is now Figure 5 of the article; the file was renamed from `FigureS4_keyword_network.png`. The image is unchanged.
+- `.zenodo.json`: added, so that authors, ORCID, affiliations and contact are kept in new versions on Zenodo.
+
+No record was added or removed, and no bibliometric result changed.
+
 ## v1.0.1 (29 September 2026)
 
 - `02_selection/Supplementary_Table_S2_included_documents.xlsx`: the column

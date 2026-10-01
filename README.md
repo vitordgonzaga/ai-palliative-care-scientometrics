@@ -1,5 +1,6 @@
 # Artificial intelligence in palliative care: materials of a scientometric mapping (2018-2025)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23046536.svg)](https://doi.org/10.5281/zenodo.23046536)
 Supplementary materials of the scientometric mapping of research on artificial
 intelligence (AI) in palliative care indexed in the Web of Science Core Collection.
 This repository holds the search documentation, the list of included records, the

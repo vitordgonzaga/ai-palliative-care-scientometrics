@@ -1,0 +1,13 @@
+{
+  "title": "Artificial intelligence in palliative care: materials of a scientometric mapping (2018-2025)",
+  "upload_type": "dataset",
+  "description": "<p>Data, figures, and supplementary materials from a scientometric study of artificial intelligence in palliative care.</p><p>Contact: Jessié Martins Gutierres (e-mail: jessie.gutierres@ufra.edu.br). Nodus Biolab, Federal Rural University of Amazon, Pará, and Federal University of Alfenas, Minas Gerais, Brazil.</p>",
+  "creators": [
+    {"name": "Gonzaga, Vítor Diniz", "affiliation": "Universidade Federal de Alfenas", "orcid": "0009-0004-1929-1589"},
+    {"name": "da Silveira, Alexânia", "affiliation": "Universidade Federal de Alfenas", "orcid": "0009-0005-3698-9644"},
+    {"name": "Gutierres, Jessié Martins", "affiliation": "Universidade Federal Rural da Amazônia; Universidade Federal de Alfenas", "orcid": "0000-0002-9574-4007"}
+  ],
+  "keywords": ["Artificial intelligence", "Palliative care", "Scientometrics", "Machine learning", "Natural language processing"],
+  "license": "cc-by-4.0",
+  "language": "eng"
+}
